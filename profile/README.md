@@ -6,7 +6,7 @@
 
 <br />
 
-[![Hub](https://img.shields.io/badge/📚_Hub-Documentation-6366f1?style=for-the-badge)](https://github.com/supernovae-ai/hub)
+[![Hub](https://img.shields.io/badge/⚓_Hub-Documentation-6366f1?style=for-the-badge)](https://github.com/supernovae-ai/hub)
 [![Manifesto](https://img.shields.io/badge/🏴‍☠️_Manifesto-Our_Beliefs-8b5cf6?style=for-the-badge)](https://github.com/supernovae-ai/hub/blob/main/MANIFESTO.md)
 [![Principles](https://img.shields.io/badge/⚡_Principles-How_We_Build-06b6d4?style=for-the-badge)](https://github.com/supernovae-ai/hub/blob/main/PRINCIPLES.md)
 
