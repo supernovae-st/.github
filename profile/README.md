@@ -39,7 +39,7 @@ Transform boring QR codes into stunning AI-generated art while maintaining perfe
 <td width="50%" valign="top">
 
 ### 🤖 Nika
-**Native Infrastructure Kernel for Automation**
+**Native Infrastructure Kernel Agent**
 
 [![Status](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-ai/nika)
 [![Repo](https://img.shields.io/badge/Repo-Private-6366f1?style=flat-square&logo=github)](https://github.com/supernovae-ai/nika)
