@@ -2,7 +2,7 @@
 
 # SuperNovae ☄️🏴‍☠️
 
-**Building an empire of consumer products, massively adopted, recognized for quality, design, and simplicity — while staying intentionally small.**
+**Building an empire of consumer products, massively adopted, recognized for quality, design, and simplicity · while staying intentionally small.**
 
 [Hub](https://github.com/supernovae-ai/hub) · [Open Source](https://github.com/supernovae-ai/hub/blob/main/OPEN-SOURCE-INDEX.md) · [Manifesto](https://github.com/supernovae-ai/hub/blob/main/MANIFESTO.md) · [Principles](https://github.com/supernovae-ai/hub/blob/main/PRINCIPLES.md) · [Inspirations](https://github.com/supernovae-ai/hub/blob/main/INSPIRATIONS.md)
 
@@ -31,10 +31,10 @@
 
 > *"We stay small by choice of freedom, not by constraint."*
 
-- **Product-Obsessed, Consumer-First** — Even what's invisible must be simple, elegant, and delightful
-- **Quality Creates Adoption** — Adoption creates longevity
-- **Taste-Driven, Not A/B Tested** — Decisions by conviction
-- **Build in Public** — When it creates trust, not noise
+- **Product-Obsessed, Consumer-First** · Even what's invisible must be simple, elegant, and delightful
+- **Quality Creates Adoption** · Adoption creates longevity
+- **Taste-Driven, Not A/B Tested** · Decisions by conviction
+- **Build in Public** · When it creates trust, not noise
 
 ---
 
