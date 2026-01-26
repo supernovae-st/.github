@@ -133,20 +133,26 @@ Where ideas are born · our experimental playground for tomorrow's products.
     <td align="center">
       <a href="https://github.com/ThibautMelen">
         <img src="https://github.com/ThibautMelen.png" width="100" style="border-radius:50%" alt="Thibaut"/>
-        <br />
-        <b>Thibaut</b>
-        <br />
-        <sub>Co-founder</sub>
       </a>
+      <br />
+      <b>Thibaut</b>
+      <br />
+      <sub>Co-founder</sub>
+      <br />
+      <a href="https://github.com/ThibautMelen"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+      <a href="https://x.com/ThibautMelen"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x" alt="X"/></a>
     </td>
     <td align="center">
       <a href="https://github.com/NicolasCELLA">
         <img src="https://github.com/NicolasCELLA.png" width="100" style="border-radius:50%" alt="Nicolas"/>
-        <br />
-        <b>Nicolas</b>
-        <br />
-        <sub>Co-founder</sub>
       </a>
+      <br />
+      <b>Nicolas</b>
+      <br />
+      <sub>Co-founder</sub>
+      <br />
+      <a href="https://github.com/NicolasCELLA"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+      <a href="https://x.com/ncella_"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x" alt="X"/></a>
     </td>
   </tr>
 </table>
