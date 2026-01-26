@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☄️ SuperNovae 🏴‍☠️
+# 🏴‍☠️🌌🪐 SuperNovae Studio 🪐🌌🏴‍☠️
 
 ### Building an empire of consumer products · massively adopted · recognized for quality, design, and simplicity · while staying intentionally small
 
