@@ -21,8 +21,6 @@
 
 </div>
 
----
-
 ## 🌌 Our Universes
 
 <table>
