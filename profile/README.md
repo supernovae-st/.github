@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/33066282?s=200&v=4" width="120" alt="SuperNovae Logo" />
+<img src="https://raw.githubusercontent.com/supernovae-ai/hub/main/assets/supernovae-ship.gif" width="100%" alt="SuperNovae Ship" />
 
-# SuperNovae
+# SuperNovae ☄️🏴‍☠️
 
 **Building an empire of consumer products, massively adopted, recognized for quality, design, and simplicity — while staying intentionally small.**
 
@@ -12,9 +12,9 @@
 
 ---
 
-## Our Universes
+## Our Universes 🌌
 
-| | Universe | Description |
+|  | Universe | Description |
 |--|----------|-------------|
 | 🔲 | [**QRCode AI**](https://github.com/supernovae-ai/qrcode-ai) | AI-powered artistic QR code generation |
 | 🤖 | [**Nika**](https://github.com/supernovae-ai/nika) | Native Infrastructure Kernel for Automation |
@@ -23,7 +23,7 @@
 | 🌈 | [**Rain.bo**](https://github.com/supernovae-ai/rain-bo) | Link-in-bio widget pages |
 | 🧪 | [**Labs**](https://github.com/supernovae-ai/supernovae-labs) | Internal tools & experiments |
 
-### The Constellation
+### The Constellation ⭐
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'lineColor': '#64748b'}}}%%
@@ -58,7 +58,7 @@ graph TD
 
 ---
 
-## Philosophy
+## Philosophy 🏴‍☠️
 
 > *"We stay small by choice of freedom, not by constraint."*
 
@@ -71,4 +71,31 @@ graph TD
 
 ---
 
-<sub>Built with 💜 by the SuperNovae crew — Paris</sub>
+## The Crew 🚀
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ThibautMelen">
+        <img src="https://github.com/ThibautMelen.png" width="80" style="border-radius:50%" alt="Thibaut"/>
+        <br />
+        <sub><b>Thibaut</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/NicolasCELLA">
+        <img src="https://github.com/NicolasCELLA.png" width="80" style="border-radius:50%" alt="Nicolas"/>
+        <br />
+        <sub><b>Nicolas</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/33066282?s=200&v=4" width="60" alt="SuperNovae" />
+
+<sub>Built with 💜 by the SuperNovae crew — Paris ☄️🏴‍☠️</sub>
+
+</div>
