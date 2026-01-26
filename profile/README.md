@@ -30,15 +30,15 @@
 ### 🔲 QRCode AI
 **AI-powered artistic QR code generation**
 
-[![Status](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-ai/qrcode-ai)
-[![Repo](https://img.shields.io/badge/Repo-Private-6366f1?style=flat-square&logo=github)](https://github.com/supernovae-ai/qrcode-ai)
+[![Live](https://img.shields.io/badge/Status-Live-10b981?style=flat-square)](https://qrcode-ai.com)
+[![Website](https://img.shields.io/badge/🌐-qrcode--ai.com-6366f1?style=flat-square)](https://qrcode-ai.com)
 
 Transform boring QR codes into stunning AI-generated art while maintaining perfect scannability.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Nika
+### 🦀 Nika
 **Native Infrastructure Kernel Agent**
 
 [![Status](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-ai/nika)
@@ -62,7 +62,7 @@ Connectivity reimagined · seamless networking for the modern age.
 </td>
 <td width="50%" valign="top">
 
-### 🌍 Jungo
+### ⚡ Jungo
 **Translation & SEO language engine**
 
 [![Status](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-ai/jungo)
