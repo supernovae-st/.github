@@ -6,18 +6,18 @@
 
 <br />
 
-[![Hub](https://img.shields.io/badge/⚓_Hub-Documentation-6366f1?style=for-the-badge)](https://github.com/supernovae-ai/hub)
-[![Manifesto](https://img.shields.io/badge/🏴‍☠️_Manifesto-Our_Beliefs-8b5cf6?style=for-the-badge)](https://github.com/supernovae-ai/hub/blob/main/MANIFESTO.md)
-[![Principles](https://img.shields.io/badge/⚡_Principles-How_We_Build-06b6d4?style=for-the-badge)](https://github.com/supernovae-ai/hub/blob/main/PRINCIPLES.md)
+[![Hub](https://img.shields.io/badge/⚓_Hub-Documentation-6366f1?style=for-the-badge)](https://github.com/supernovae-st/hub)
+[![Manifesto](https://img.shields.io/badge/🏴‍☠️_Manifesto-Our_Beliefs-8b5cf6?style=for-the-badge)](https://github.com/supernovae-st/hub/blob/main/MANIFESTO.md)
+[![Principles](https://img.shields.io/badge/⚡_Principles-How_We_Build-06b6d4?style=for-the-badge)](https://github.com/supernovae-st/hub/blob/main/PRINCIPLES.md)
 
-[![North Star](https://img.shields.io/badge/🌟_North_Star-Vision-f59e0b?style=flat-square)](https://github.com/supernovae-ai/hub/blob/main/NORTH-STAR.md)
-[![Culture](https://img.shields.io/badge/🎭_Culture-The_Crew-ec4899?style=flat-square)](https://github.com/supernovae-ai/hub/blob/main/CULTURE.md)
-[![Inspirations](https://img.shields.io/badge/💡_Inspirations-Giants-10b981?style=flat-square)](https://github.com/supernovae-ai/hub/blob/main/INSPIRATIONS.md)
-[![Open Source](https://img.shields.io/badge/🌐_Open_Source-Index-64748b?style=flat-square)](https://github.com/supernovae-ai/hub/blob/main/OPEN-SOURCE-INDEX.md)
+[![North Star](https://img.shields.io/badge/🌟_North_Star-Vision-f59e0b?style=flat-square)](https://github.com/supernovae-st/hub/blob/main/NORTH-STAR.md)
+[![Culture](https://img.shields.io/badge/🎭_Culture-The_Crew-ec4899?style=flat-square)](https://github.com/supernovae-st/hub/blob/main/CULTURE.md)
+[![Inspirations](https://img.shields.io/badge/💡_Inspirations-Giants-10b981?style=flat-square)](https://github.com/supernovae-st/hub/blob/main/INSPIRATIONS.md)
+[![Open Source](https://img.shields.io/badge/🌐_Open_Source-Index-64748b?style=flat-square)](https://github.com/supernovae-st/hub/blob/main/OPEN-SOURCE-INDEX.md)
 
 <br />
 
-<img src="https://raw.githubusercontent.com/supernovae-ai/hub/main/assets/supernovae-ship.gif" width="100%" alt="SuperNovae Ship sailing through the cosmos" />
+<img src="https://raw.githubusercontent.com/supernovae-st/hub/main/assets/supernovae-ship.gif" width="100%" alt="SuperNovae Ship sailing through the cosmos" />
 
 </div>
 
@@ -32,7 +32,7 @@
 
 [![Live](https://img.shields.io/badge/Status-Live-10b981?style=flat-square)](https://qrcode-ai.com)
 [![Website](https://img.shields.io/badge/🌐-qrcode--ai.com-6366f1?style=flat-square)](https://qrcode-ai.com)
-[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-ai/qrcode-ai)
+[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-st/qrcode-ai)
 
 Transform boring QR codes into stunning AI-generated art while maintaining perfect scannability.
 
@@ -52,7 +52,7 @@ Transform boring QR codes into stunning AI-generated art while maintaining perfe
 
 [![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://nika.sh)
 [![Website](https://img.shields.io/badge/🌐-nika.sh-6366f1?style=flat-square)](https://nika.sh)
-[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-ai/nika)
+[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-st/nika)
 
 Deterministic YAML workflow engine · launch an AI product in one day.
 
@@ -67,8 +67,8 @@ Deterministic YAML workflow engine · launch an AI product in one day.
 ### 🌐 NovaNET
 **Network & connectivity solutions**
 
-[![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-ai/novanet)
-[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-ai/novanet)
+[![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-st/novanet)
+[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-st/novanet)
 
 Connectivity reimagined · seamless networking for the modern age.
 
@@ -80,8 +80,8 @@ Connectivity reimagined · seamless networking for the modern age.
 ### ⚡ Jungo
 **Translation & SEO language engine**
 
-[![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-ai/jungo)
-[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-ai/jungo)
+[![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-st/jungo)
+[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-st/jungo)
 
 Break language barriers · AI-powered translation that speaks to the world.
 
@@ -93,8 +93,8 @@ Break language barriers · AI-powered translation that speaks to the world.
 ### 🌈 Rain.bo
 **Link-in-bio widget pages**
 
-[![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-ai/rain-bo)
-[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-ai/rain-bo)
+[![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-st/rain-bo)
+[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-st/rain-bo)
 
 Your digital identity · beautiful, customizable micro-sites in seconds.
 
@@ -104,8 +104,8 @@ Your digital identity · beautiful, customizable micro-sites in seconds.
 ### 🧪 Labs
 **Internal tools & experiments**
 
-[![Active](https://img.shields.io/badge/Status-Active-10b981?style=flat-square)](https://github.com/supernovae-ai/supernovae-labs)
-[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-ai/supernovae-labs)
+[![Active](https://img.shields.io/badge/Status-Active-10b981?style=flat-square)](https://github.com/supernovae-st/supernovae-labs)
+[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-st/supernovae-labs)
 
 Where ideas are born · our experimental playground for tomorrow's products.
 
@@ -178,9 +178,9 @@ Where ideas are born · our experimental playground for tomorrow's products.
 
 <div align="center">
 
-[![Made with Love](https://img.shields.io/badge/Made_with-💜-ec4899?style=for-the-badge)](https://github.com/supernovae-ai)
-[![Location](https://img.shields.io/badge/📍-Paris-6366f1?style=for-the-badge)](https://github.com/supernovae-ai)
-[![Crew](https://img.shields.io/badge/Crew-2_Nakamas-8b5cf6?style=for-the-badge)](https://github.com/supernovae-ai)
+[![Made with Love](https://img.shields.io/badge/Made_with-💜-ec4899?style=for-the-badge)](https://github.com/supernovae-st)
+[![Location](https://img.shields.io/badge/📍-Paris-6366f1?style=for-the-badge)](https://github.com/supernovae-st)
+[![Crew](https://img.shields.io/badge/Crew-2_Nakamas-8b5cf6?style=for-the-badge)](https://github.com/supernovae-st)
 
 <sub>Small crew, massive impact ☄️🏴‍☠️</sub>
 
