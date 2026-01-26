@@ -151,7 +151,7 @@ Where ideas are born · our experimental playground for tomorrow's products.
       <sub>Co-founder</sub>
       <br />
       <a href="https://github.com/ThibautMelen"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-      <a href="https://x.com/ThibautMelen"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x" alt="X"/></a>
+      <a href="https://x.com/ThibautMelen"><img src="https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x" alt="Twitter/X"/></a>
     </td>
     <td align="center">
       <a href="https://github.com/NicolasCELLA">
@@ -163,7 +163,7 @@ Where ideas are born · our experimental playground for tomorrow's products.
       <sub>Co-founder</sub>
       <br />
       <a href="https://github.com/NicolasCELLA"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-      <a href="https://x.com/ncella_"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x" alt="X"/></a>
+      <a href="https://x.com/ncella_"><img src="https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x" alt="Twitter/X"/></a>
     </td>
   </tr>
 </table>
