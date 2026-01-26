@@ -32,8 +32,17 @@
 
 [![Live](https://img.shields.io/badge/Status-Live-10b981?style=flat-square)](https://qrcode-ai.com)
 [![Website](https://img.shields.io/badge/🌐-qrcode--ai.com-6366f1?style=flat-square)](https://qrcode-ai.com)
+[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-ai/qrcode-ai)
 
 Transform boring QR codes into stunning AI-generated art while maintaining perfect scannability.
+
+[![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-ff6f00?style=flat-square)](https://stability.ai)
+[![ControlNet](https://img.shields.io/badge/ControlNet-8b5cf6?style=flat-square)](https://github.com/lllyasviel/ControlNet)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
+[![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)](https://nuxt.com)
+
+[![X](https://img.shields.io/badge/@QRCODEAI-000000?style=flat-square&logo=x)](https://x.com/QRCODEAI)
+[![Product Hunt](https://img.shields.io/badge/Product_Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/qrcode-ai)
 
 </td>
 <td width="50%" valign="top">
@@ -41,10 +50,14 @@ Transform boring QR codes into stunning AI-generated art while maintaining perfe
 ### 🦀 Nika
 **Native Infrastructure Kernel Agent**
 
-[![Status](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-ai/nika)
-[![Repo](https://img.shields.io/badge/Repo-Private-6366f1?style=flat-square&logo=github)](https://github.com/supernovae-ai/nika)
+[![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://nika.sh)
+[![Website](https://img.shields.io/badge/🌐-nika.sh-6366f1?style=flat-square)](https://nika.sh)
+[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-ai/nika)
 
-The brain behind our automation · AI-native infrastructure that makes the complex simple.
+Deterministic YAML workflow engine · launch an AI product in one day.
+
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://rust-lang.org)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)](https://yaml.org)
 
 </td>
 </tr>
@@ -54,10 +67,12 @@ The brain behind our automation · AI-native infrastructure that makes the compl
 ### 🌐 NovaNET
 **Network & connectivity solutions**
 
-[![Status](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-ai/novanet)
-[![Repo](https://img.shields.io/badge/Repo-Private-6366f1?style=flat-square&logo=github)](https://github.com/supernovae-ai/novanet)
+[![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-ai/novanet)
+[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-ai/novanet)
 
 Connectivity reimagined · seamless networking for the modern age.
+
+[![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)](https://neo4j.com)
 
 </td>
 <td width="50%" valign="top">
@@ -65,8 +80,8 @@ Connectivity reimagined · seamless networking for the modern age.
 ### ⚡ Jungo
 **Translation & SEO language engine**
 
-[![Status](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-ai/jungo)
-[![Repo](https://img.shields.io/badge/Repo-Private-6366f1?style=flat-square&logo=github)](https://github.com/supernovae-ai/jungo)
+[![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-ai/jungo)
+[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-ai/jungo)
 
 Break language barriers · AI-powered translation that speaks to the world.
 
@@ -78,8 +93,8 @@ Break language barriers · AI-powered translation that speaks to the world.
 ### 🌈 Rain.bo
 **Link-in-bio widget pages**
 
-[![Status](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-ai/rain-bo)
-[![Repo](https://img.shields.io/badge/Repo-Private-6366f1?style=flat-square&logo=github)](https://github.com/supernovae-ai/rain-bo)
+[![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-ai/rain-bo)
+[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-ai/rain-bo)
 
 Your digital identity · beautiful, customizable micro-sites in seconds.
 
@@ -89,8 +104,8 @@ Your digital identity · beautiful, customizable micro-sites in seconds.
 ### 🧪 Labs
 **Internal tools & experiments**
 
-[![Status](https://img.shields.io/badge/Status-Active-10b981?style=flat-square)](https://github.com/supernovae-ai/supernovae-labs)
-[![Repo](https://img.shields.io/badge/Repo-Private-6366f1?style=flat-square&logo=github)](https://github.com/supernovae-ai/supernovae-labs)
+[![Active](https://img.shields.io/badge/Status-Active-10b981?style=flat-square)](https://github.com/supernovae-ai/supernovae-labs)
+[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-ai/supernovae-labs)
 
 Where ideas are born · our experimental playground for tomorrow's products.
 
