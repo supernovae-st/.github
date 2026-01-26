@@ -10,14 +10,18 @@
 [![Manifesto](https://img.shields.io/badge/🏴‍☠️_Manifesto-Our_Beliefs-8b5cf6?style=for-the-badge)](https://github.com/supernovae-ai/hub/blob/main/MANIFESTO.md)
 [![Principles](https://img.shields.io/badge/⚡_Principles-How_We_Build-06b6d4?style=for-the-badge)](https://github.com/supernovae-ai/hub/blob/main/PRINCIPLES.md)
 
+<br />
+
+<img src="https://raw.githubusercontent.com/supernovae-ai/hub/main/assets/supernovae-ship.gif" width="100%" alt="SuperNovae Ship sailing through the cosmos" />
+
+<br />
+
 [![North Star](https://img.shields.io/badge/🌟_North_Star-Vision-f59e0b?style=flat-square)](https://github.com/supernovae-ai/hub/blob/main/NORTH-STAR.md)
 [![Culture](https://img.shields.io/badge/🎭_Culture-The_Crew-ec4899?style=flat-square)](https://github.com/supernovae-ai/hub/blob/main/CULTURE.md)
 [![Inspirations](https://img.shields.io/badge/💡_Inspirations-Giants-10b981?style=flat-square)](https://github.com/supernovae-ai/hub/blob/main/INSPIRATIONS.md)
 [![Open Source](https://img.shields.io/badge/🌐_Open_Source-Index-64748b?style=flat-square)](https://github.com/supernovae-ai/hub/blob/main/OPEN-SOURCE-INDEX.md)
 
 </div>
-
-<br />
 
 ---
 
@@ -156,13 +160,6 @@ Where ideas are born · our experimental playground for tomorrow's products.
 ---
 
 <div align="center">
-
-<br />
-
-<img src="https://raw.githubusercontent.com/supernovae-ai/hub/main/assets/supernovae-ship.gif" width="80%" alt="SuperNovae Ship sailing through the cosmos" />
-
-<br />
-<br />
 
 [![Made with Love](https://img.shields.io/badge/Made_with-💜-ec4899?style=for-the-badge)](https://github.com/supernovae-ai)
 [![Location](https://img.shields.io/badge/📍-Paris-6366f1?style=for-the-badge)](https://github.com/supernovae-ai)
