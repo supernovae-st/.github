@@ -1,176 +1,87 @@
 <div align="center">
 
-# 🏴‍☠️🌌🪐 SuperNovae Studio 🪐🌌🏴‍☠️
+# SuperNovae Studio
 
-### Building an empire of consumer products · massively adopted · recognized for quality, design, and simplicity · while staying intentionally small
+**Building an empire of consumer products — massively adopted, recognized for quality, design, and simplicity — while staying intentionally small.**
 
-<br />
+[![Hub](https://img.shields.io/badge/Hub-Documentation-6366f1?style=flat-square)](https://github.com/supernovae-st/hub)
+[![Manifesto](https://img.shields.io/badge/Manifesto-Our_Beliefs-8b5cf6?style=flat-square)](https://github.com/supernovae-st/hub/blob/main/MANIFESTO.md)
+[![Principles](https://img.shields.io/badge/Principles-How_We_Build-06b6d4?style=flat-square)](https://github.com/supernovae-st/hub/blob/main/PRINCIPLES.md)
 
-[![Hub](https://img.shields.io/badge/⚓_Hub-Documentation-6366f1?style=for-the-badge)](https://github.com/supernovae-st/hub)
-[![Manifesto](https://img.shields.io/badge/🏴‍☠️_Manifesto-Our_Beliefs-8b5cf6?style=for-the-badge)](https://github.com/supernovae-st/hub/blob/main/MANIFESTO.md)
-[![Principles](https://img.shields.io/badge/⚡_Principles-How_We_Build-06b6d4?style=for-the-badge)](https://github.com/supernovae-st/hub/blob/main/PRINCIPLES.md)
+<br>
 
-[![North Star](https://img.shields.io/badge/🌟_North_Star-Vision-f59e0b?style=flat-square)](https://github.com/supernovae-st/hub/blob/main/NORTH-STAR.md)
-[![Culture](https://img.shields.io/badge/🎭_Culture-The_Crew-ec4899?style=flat-square)](https://github.com/supernovae-st/hub/blob/main/CULTURE.md)
-[![Inspirations](https://img.shields.io/badge/💡_Inspirations-Giants-10b981?style=flat-square)](https://github.com/supernovae-st/hub/blob/main/INSPIRATIONS.md)
-[![Open Source](https://img.shields.io/badge/🌐_Open_Source-Index-64748b?style=flat-square)](https://github.com/supernovae-st/hub/blob/main/OPEN-SOURCE-INDEX.md)
-
-<br />
-
-<img src="https://raw.githubusercontent.com/supernovae-st/hub/main/assets/supernovae-ship.gif" width="100%" alt="SuperNovae Ship sailing through the cosmos" />
+<img src="https://raw.githubusercontent.com/supernovae-st/hub/main/assets/supernovae-ship.gif" width="100%" alt="SuperNovae Ship" />
 
 </div>
 
-## 🌌 Our Universes
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Our Universes
 
-### 🔲 QRCode AI
-**AI-powered artistic QR code generation**
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'lineColor': '#64748b'}}}%%
+flowchart LR
+    accTitle: SuperNovae Universes
+    accDescr: All products built by SuperNovae Studio
 
-[![Live](https://img.shields.io/badge/Status-Live-10b981?style=flat-square)](https://qrcode-ai.com)
-[![Website](https://img.shields.io/badge/🌐-qrcode--ai.com-6366f1?style=flat-square)](https://qrcode-ai.com)
-[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-st/qrcode-ai)
+    classDef live fill:#10b981,stroke:#059669,stroke-width:2px,color:#ffffff
+    classDef building fill:#f59e0b,stroke:#d97706,stroke-width:2px,color:#ffffff
+    classDef active fill:#6366f1,stroke:#4f46e5,stroke-width:2px,color:#ffffff
 
-Transform boring QR codes into stunning AI-generated art while maintaining perfect scannability.
+    QRAI[QRCode AI]:::live
+    NIKA[Nika]:::building
+    NOVANET[NovaNET]:::building
+    JUNGO[Jungo]:::building
+    RAINBO[Rain.bo]:::building
+    LABS[Labs]:::active
+```
 
-[![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-ff6f00?style=flat-square)](https://stability.ai)
-[![ControlNet](https://img.shields.io/badge/ControlNet-8b5cf6?style=flat-square)](https://github.com/lllyasviel/ControlNet)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
-[![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)](https://nuxt.com)
-
-[![X](https://img.shields.io/badge/@QRCODEAI-000000?style=flat-square&logo=x)](https://x.com/QRCODEAI)
-[![Product Hunt](https://img.shields.io/badge/Product_Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/qrcode-ai)
-
-</td>
-<td width="50%" valign="top">
-
-### 🦀 Nika
-**Native Infrastructure Kernel Agent**
-
-[![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://nika.sh)
-[![Website](https://img.shields.io/badge/🌐-nika.sh-6366f1?style=flat-square)](https://nika.sh)
-[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-st/nika)
-
-Deterministic YAML workflow engine · launch an AI product in one day.
-
-[![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://rust-lang.org)
-[![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)](https://yaml.org)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 NovaNET
-**Network & connectivity solutions**
-
-[![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-st/novanet)
-[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-st/novanet)
-
-Connectivity reimagined · seamless networking for the modern age.
-
-[![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)](https://neo4j.com)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Jungo
-**Translation & SEO language engine**
-
-[![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-st/jungo)
-[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-st/jungo)
-
-Break language barriers · AI-powered translation that speaks to the world.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌈 Rain.bo
-**Link-in-bio widget pages**
-
-[![Building](https://img.shields.io/badge/Status-Building-f59e0b?style=flat-square)](https://github.com/supernovae-st/rain-bo)
-[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-st/rain-bo)
-
-Your digital identity · beautiful, customizable micro-sites in seconds.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 Labs
-**Internal tools & experiments**
-
-[![Active](https://img.shields.io/badge/Status-Active-10b981?style=flat-square)](https://github.com/supernovae-st/supernovae-labs)
-[![Repo](https://img.shields.io/badge/Repo-Private-64748b?style=flat-square&logo=github)](https://github.com/supernovae-st/supernovae-labs)
-
-Where ideas are born · our experimental playground for tomorrow's products.
-
-</td>
-</tr>
-</table>
+| Universe | Description | Status |
+|----------|-------------|--------|
+| [**QRCode AI**](https://qrcode-ai.com) | AI-powered artistic QR codes | **Live** |
+| [**Nika**](https://github.com/supernovae-st/nika) | Native Infrastructure Kernel Agent | Building |
+| [**NovaNET**](https://github.com/supernovae-st/novanet) | Knowledge graph localization | Building |
+| [**Jungo**](https://github.com/supernovae-st/jungo) | Translation & SEO engine | Building |
+| [**Rain.bo**](https://github.com/supernovae-st/rain-bo) | Link-in-bio pages | Building |
+| [**Labs**](https://github.com/supernovae-st/supernovae-labs) | Internal tools & experiments | Active |
 
 ---
 
-## 🏴‍☠️ Philosophy
-
-<div align="center">
+## Philosophy
 
 > *"We stay small by choice of freedom, not by constraint."*
 
-</div>
-
-<br />
-
-| | Principle | What It Means |
-|:--:|:--|:--|
-| 🎯 | **Product-Obsessed, Consumer-First** | Even what's invisible must be simple, elegant, and delightful |
-| ✨ | **Quality Creates Adoption** | Adoption creates longevity |
-| 🎨 | **Taste-Driven, Not A/B Tested** | Decisions by conviction |
-| 🔊 | **Build in Public** | When it creates trust, not noise |
-| 🏝️ | **Stay Small** | Use AI & automation for leverage, not headcount |
+| Principle | What It Means |
+|-----------|---------------|
+| **Product-Obsessed** | Even what's invisible must be simple, elegant, and delightful |
+| **Quality Creates Adoption** | Adoption creates longevity |
+| **Taste-Driven** | Decisions by conviction, not A/B tests |
+| **Build in Public** | When it creates trust, not noise |
+| **Stay Small** | Use AI & automation for leverage, not headcount |
 
 ---
 
-## 🚀 The Crew
+## Open Source
+
+| Repository | Description |
+|------------|-------------|
+| [**qrcode-ai-scanner**](https://github.com/supernovae-st/qrcode-ai-scanner) | High-performance QR scanner (89% success on artistic QR codes) |
+| [**hub**](https://github.com/supernovae-st/hub) | Our philosophy, principles, and culture |
+| [**novanet**](https://github.com/supernovae-st/novanet) | Knowledge graph localization orchestrator |
+
+---
+
+## The Crew
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ThibautMelen">
-        <img src="https://github.com/ThibautMelen.png" width="100" style="border-radius:50%" alt="Thibaut"/>
-      </a>
-      <br />
-      <b>Thibaut</b>
-      <br />
-      <sub>Co-founder</sub>
-      <br />
-      <a href="https://github.com/ThibautMelen"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-      <a href="https://x.com/ThibautMelen"><img src="https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x" alt="Twitter/X"/></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/NicolasCELLA">
-        <img src="https://github.com/NicolasCELLA.png" width="100" style="border-radius:50%" alt="Nicolas"/>
-      </a>
-      <br />
-      <b>Nicolas</b>
-      <br />
-      <sub>Co-founder</sub>
-      <br />
-      <a href="https://github.com/NicolasCELLA"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub"/></a>
-      <a href="https://x.com/ncella_"><img src="https://img.shields.io/badge/Twitter/X-000000?style=flat-square&logo=x" alt="Twitter/X"/></a>
-    </td>
-  </tr>
-</table>
+| | |
+|:-:|:-:|
+| <a href="https://github.com/ThibautMelen"><img src="https://github.com/ThibautMelen.png" width="80" alt="Thibaut"/></a> | <a href="https://github.com/NicolasCELLA"><img src="https://github.com/NicolasCELLA.png" width="80" alt="Nicolas"/></a> |
+| **[Thibaut](https://github.com/ThibautMelen)** | **[Nicolas](https://github.com/NicolasCELLA)** |
+| Co-founder | Co-founder |
 
-<br />
-
-**Small crew vs giants · and we win** 💪
+**Small crew vs giants — and we win.**
 
 </div>
 
@@ -178,10 +89,10 @@ Where ideas are born · our experimental playground for tomorrow's products.
 
 <div align="center">
 
-[![Made with Love](https://img.shields.io/badge/Made_with-💜-ec4899?style=for-the-badge)](https://github.com/supernovae-st)
-[![Location](https://img.shields.io/badge/📍-Paris-6366f1?style=for-the-badge)](https://github.com/supernovae-st)
-[![Crew](https://img.shields.io/badge/Crew-2_Nakamas-8b5cf6?style=for-the-badge)](https://github.com/supernovae-st)
+[![Made with Love](https://img.shields.io/badge/Made_with-💜-ec4899?style=flat-square)](https://github.com/supernovae-st)
+[![Location](https://img.shields.io/badge/Paris-6366f1?style=flat-square)](https://github.com/supernovae-st)
+[![Twitter](https://img.shields.io/badge/@supernovae__st-000000?style=flat-square&logo=x)](https://twitter.com/supernovae_st)
 
-<sub>Small crew, massive impact ☄️🏴‍☠️</sub>
+*Small crew, massive impact.*
 
 </div>
