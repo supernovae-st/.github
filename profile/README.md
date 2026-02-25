@@ -52,7 +52,7 @@ Transform boring QR codes into stunning AI-generated art while maintaining perfe
 
 [![Live](https://img.shields.io/badge/Status-Live-10b981?style=flat-square)](https://nika.sh)
 [![Website](https://img.shields.io/badge/🌐-nika.sh-6366f1?style=flat-square)](https://nika.sh)
-[![GitHub](https://img.shields.io/badge/GitHub-nikadotsh-181717?style=flat-square&logo=github)](https://github.com/nikadotsh)
+[![GitHub](https://img.shields.io/badge/GitHub-nika-181717?style=flat-square&logo=github)](https://github.com/supernovae-st/nika)
 
 Turn YAML into AI workflows · Multi-agent orchestration made simple.
 
