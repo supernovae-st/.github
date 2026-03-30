@@ -138,6 +138,6 @@ If we need to build an AI kernel to ship better products, we build an AI kernel.
 
 <br />
 
-Paris, France · Open Source · [qrcode-ai.com](https://qrcode-ai.com)
+Paris · [supernovae.studio](https://supernovae.studio) · [qrcode-ai.com](https://qrcode-ai.com)
 
 </div>
