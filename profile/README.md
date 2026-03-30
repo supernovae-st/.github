@@ -18,7 +18,7 @@
 
 ### 🦋 Nika
 
-**Inference as Code**
+**Automate any AI from a simple file**
 
 [![Live](https://img.shields.io/badge/-Live-10b981?style=flat-square)](https://github.com/supernovae-st/nika) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/supernovae-st/nika) [![AGPL-3.0](https://img.shields.io/badge/-AGPL--3.0-green?style=flat-square)](https://github.com/supernovae-st/nika/blob/main/LICENSE)
 
