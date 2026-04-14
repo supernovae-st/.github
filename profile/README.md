@@ -33,13 +33,21 @@ Write a YAML file, Nika runs it with any provider, in parallel, with structured 
 | [`nika-client`](https://github.com/supernovae-st/nika-client) | TypeScript SDK |
 | [`nika-registry`](https://github.com/supernovae-st/nika-registry) | Community workflows & skills |
 | [`nika-design-skill`](https://github.com/supernovae-st/nika-design-skill) | Design system (Claude Code Skill) |
-| [`homebrew-nika`](https://github.com/supernovae-st/homebrew-nika) | `brew tap supernovae-st/nika` |
+| [`homebrew-tap`](https://github.com/supernovae-st/homebrew-tap) | `brew install supernovae-st/tap/nika` |
 
 ```bash
 # Install
-brew tap supernovae-st/nika && brew install nika
+brew install supernovae-st/tap/nika
 # or
 curl -LsSf https://nika.sh/install.sh | sh
+```
+
+**Try the design system as a Claude Code skill:**
+
+```bash
+git clone https://github.com/supernovae-st/nika-design-skill.git
+cp -r nika-design-skill/nika-design ~/.claude/skills/
+# Then in Claude Code: "/nika-design" or "nika style"
 ```
 
 [![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)](https://rust-lang.org) [![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square)](https://yaml.org) [![MCP](https://img.shields.io/badge/MCP_Client-blue?style=flat-square)](https://modelcontextprotocol.io) [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com) [![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square)](https://mistral.ai)
