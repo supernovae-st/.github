@@ -33,11 +33,11 @@ Write a YAML file, Nika runs it with any provider, in parallel, with structured 
 | [`nika-client`](https://github.com/supernovae-st/nika-client) | TypeScript SDK |
 | [`nika-registry`](https://github.com/supernovae-st/nika-registry) | Community workflows & skills |
 | [`nika-design-skill`](https://github.com/supernovae-st/nika-design-skill) | Design system (Claude Code Skill) |
-| [`homebrew-tap`](https://github.com/supernovae-st/homebrew-tap) | `brew install supernovae-st/tap/nika` |
+| [`homebrew-nika`](https://github.com/supernovae-st/homebrew-nika) | `brew tap supernovae-st/nika` |
 
 ```bash
 # Install
-brew install supernovae-st/tap/nika
+brew tap supernovae-st/nika && brew install nika
 # or
 curl -LsSf https://nika.sh/install.sh | sh
 ```
