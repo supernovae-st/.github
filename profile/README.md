@@ -16,23 +16,25 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🦋 Nika — Inference as Code
+### 🦋 Nika — Intent as Code
 
-**Semantic YAML workflow engine for AI tasks**
+**The workflow language for AI · one file, one binary**
 
 [![nika.sh](https://img.shields.io/badge/-nika.sh-FF6B1A?style=flat-square)](https://nika.sh) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/supernovae-st/nika) [![AGPL-3.0](https://img.shields.io/badge/-AGPL--3.0-green?style=flat-square)](https://github.com/supernovae-st/nika/blob/main/LICENSE) [![Crates.io](https://img.shields.io/crates/v/nika?style=flat-square&color=FF6B1A)](https://crates.io/crates/nika)
 
-Write a YAML file, Nika runs it with any provider, in parallel, with structured output. **5 verbs, 9 providers, 63 builtin tools.** Single Rust binary, zero dependencies. Built in public — watch it grow.
+Write a YAML file, Nika runs it with any provider — local or cloud — in parallel, with structured output. **4 verbs, 14 providers, 23 builtin tools**, and the only workflow audit that runs BEFORE a single token is spent: cost ceiling, permits boundary, secret flows — all static. Single Rust binary. Built in public.
 
 **Ecosystem:**
 
 | Repo | Purpose |
 |------|---------|
 | [`nika`](https://github.com/supernovae-st/nika) | Rust engine — AGPL-3.0 |
+| [`nika-spec`](https://github.com/supernovae-st/nika-spec) | The language spec — Apache-2.0, runtime-agnostic |
+| [`nika-docs`](https://github.com/supernovae-st/nika-docs) | Documentation — docs.nika.sh |
+| [`nika-vscode`](https://github.com/supernovae-st/nika-vscode) | VS Code / Cursor / Windsurf extension |
 | [`nika.sh`](https://github.com/supernovae-st/nika.sh) | Marketing site |
 | [`nika-client`](https://github.com/supernovae-st/nika-client) | TypeScript SDK |
-| [`nika-registry`](https://github.com/supernovae-st/nika-registry) | Community workflows & skills |
-| [`nika-design-skill`](https://github.com/supernovae-st/nika-design-skill) | Design system (Claude Code Skill) |
+| [`nika-site-audit`](https://github.com/supernovae-st/nika-site-audit) | A real workflow, auditing real sites |
 | [`homebrew-nika`](https://github.com/supernovae-st/homebrew-nika) | `brew tap supernovae-st/nika` |
 
 ```bash
@@ -50,7 +52,7 @@ cp -r nika-design-skill/nika-design ~/.claude/skills/
 # Then in Claude Code: "/nika-design" or "nika style"
 ```
 
-[![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)](https://rust-lang.org) [![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square)](https://yaml.org) [![MCP](https://img.shields.io/badge/MCP_Client-blue?style=flat-square)](https://modelcontextprotocol.io) [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com) [![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square)](https://mistral.ai)
+[![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)](https://rust-lang.org) [![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square)](https://yaml.org) [![MCP](https://img.shields.io/badge/MCP_Client-blue?style=flat-square)](https://modelcontextprotocol.io) [![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com) [![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square)](https://mistral.ai) [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
 
 </td>
 <td width="50%" valign="top">
