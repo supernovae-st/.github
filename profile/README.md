@@ -20,9 +20,9 @@
 
 **The workflow language for AI · one file, one binary**
 
-[![nika.sh](https://img.shields.io/badge/-nika.sh-FF6B1A?style=flat-square)](https://nika.sh) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/supernovae-st/nika) [![AGPL-3.0](https://img.shields.io/badge/-AGPL--3.0-green?style=flat-square)](https://github.com/supernovae-st/nika/blob/main/LICENSE) [![Crates.io](https://img.shields.io/crates/v/nika?style=flat-square&color=FF6B1A)](https://crates.io/crates/nika)
+[![nika.sh](https://img.shields.io/badge/-nika.sh-FF7A3C?style=flat-square)](https://nika.sh) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/supernovae-st/nika) [![AGPL-3.0](https://img.shields.io/badge/-AGPL--3.0-green?style=flat-square)](https://github.com/supernovae-st/nika/blob/main/LICENSE) [![Crates.io](https://img.shields.io/crates/v/nika?style=flat-square&color=FF7A3C)](https://crates.io/crates/nika)
 
-Write a YAML file, Nika runs it with any provider — local or cloud — in parallel, with structured output. **4 verbs, 14 providers, 23 builtin tools**, and the only workflow audit that runs BEFORE a single token is spent: cost ceiling, permits boundary, secret flows — all static. Single Rust binary. Built in public.
+Write a YAML file, Nika runs it with any provider — local or cloud — in parallel, with structured output. **4 verbs, 16 providers, 25 builtin tools**<!-- counts: nika-spec/canon.yaml is the SSOT — update from there, never by memory -->, and the only workflow audit that runs BEFORE a single token is spent: cost ceiling, permits boundary, secret flows — all static. Single Rust binary. Built in public.
 
 **Ecosystem:**
 
@@ -35,21 +35,23 @@ Write a YAML file, Nika runs it with any provider — local or cloud — in para
 | [`nika.sh`](https://github.com/supernovae-st/nika.sh) | Marketing site |
 | [`nika-client`](https://github.com/supernovae-st/nika-client) | TypeScript SDK |
 | [`nika-site-audit`](https://github.com/supernovae-st/nika-site-audit) | A real workflow, auditing real sites |
-| [`homebrew-nika`](https://github.com/supernovae-st/homebrew-nika) | `brew tap supernovae-st/nika` |
+| [`nika-agents`](https://github.com/supernovae-st/nika-agents) | Agent plugin marketplace — Claude Code + Codex |
+| [`nika-registry`](https://github.com/supernovae-st/nika-registry) | Share workflows — every entry machine-re-proven |
+| [`homebrew-tap`](https://github.com/supernovae-st/homebrew-tap) | `brew install supernovae-st/tap/nika` |
 
 ```bash
 # Install
-brew tap supernovae-st/nika && brew install nika
+brew install supernovae-st/tap/nika
 # or
 curl -LsSf https://nika.sh/install.sh | sh
 ```
 
-**Try the design system as a Claude Code skill:**
+**Make your AI agent a Nika expert** (skill + read-only MCP oracle):
 
 ```bash
-git clone https://github.com/supernovae-st/nika-design-skill.git
-cp -r nika-design-skill/nika-design ~/.claude/skills/
-# Then in Claude Code: "/nika-design" or "nika style"
+# Claude Code                              # Codex
+/plugin marketplace add supernovae-st/nika-agents
+/plugin install nika@nika                  codex plugin add nika@nika
 ```
 
 [![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)](https://rust-lang.org) [![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square)](https://yaml.org) [![MCP](https://img.shields.io/badge/MCP_Client-blue?style=flat-square)](https://modelcontextprotocol.io) [![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)](https://ollama.com) [![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square)](https://mistral.ai) [![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://anthropic.com) [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com)
