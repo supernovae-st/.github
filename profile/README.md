@@ -22,7 +22,7 @@
 
 [![nika.sh](https://img.shields.io/badge/-nika.sh-FF7A3C?style=flat-square)](https://nika.sh) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/supernovae-st/nika) [![AGPL-3.0](https://img.shields.io/badge/-AGPL--3.0-green?style=flat-square)](https://github.com/supernovae-st/nika/blob/main/LICENSE) [![Crates.io](https://img.shields.io/crates/v/nika?style=flat-square&color=FF7A3C)](https://crates.io/crates/nika)
 
-Write a YAML file, Nika runs it with any provider — local or cloud — in parallel, with structured output. **4 verbs, 16 providers, 25 builtin tools**<!-- counts: nika-spec/canon.yaml is the SSOT — update from there, never by memory -->, and the only workflow audit that runs BEFORE a single token is spent: cost ceiling, permits boundary, secret flows — all static. Single Rust binary. Built in public.
+Write a YAML file, Nika runs it with any provider — local or cloud — in parallel, with structured output. **4 verbs, 16 providers, 27 builtin tools**<!-- counts: nika-spec/canon.yaml is the SSOT — update from there, never by memory -->, and the only workflow audit that runs BEFORE a single token is spent: cost ceiling, permits boundary, secret flows — all static. Single Rust binary. Built in public.
 
 **Ecosystem:**
 
