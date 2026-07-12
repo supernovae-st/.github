@@ -38,6 +38,10 @@ Write a YAML file, Nika runs it with any provider — local or cloud — in para
 | [`nika-agents`](https://github.com/supernovae-st/nika-agents) | Agent plugin marketplace — Claude Code + Codex |
 | [`nika-registry`](https://github.com/supernovae-st/nika-registry) | Share workflows — every entry machine-re-proven |
 | [`homebrew-tap`](https://github.com/supernovae-st/homebrew-tap) | `brew install supernovae-st/tap/nika` |
+| [`nika-action`](https://github.com/supernovae-st/nika-action) | GitHub Action — the check verdict + cost floor + DAG on every PR |
+| [`nika-starter`](https://github.com/supernovae-st/nika-starter) | Template repo — one proven workflow + wiring + CI in a minute |
+| [`nika-actions-starter`](https://github.com/supernovae-st/nika-actions-starter) | Template repo — AI-workflow receipts in your CI |
+| [`gh-nika`](https://github.com/supernovae-st/gh-nika) | GitHub CLI extension — `gh nika check/run`, checksum-verified fetch |
 
 ```bash
 # Install
