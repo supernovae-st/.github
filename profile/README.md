@@ -75,35 +75,9 @@ Turn any QR code into AI-generated art that actually scans. SaaS with free tier 
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ Jungo
-
-**Multilingual SEO & Content Platform**
-
-[![Building](https://img.shields.io/badge/-Building-f59e0b?style=flat-square)]()
-
-SEO monitoring, programmatic pages, and multilingual content at scale. Powered by Nika + NovaNet. 200+ locales.
-
-[![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)](https://nuxt.com) [![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org)
-
-</td>
-<td width="50%" valign="top">
-
-### 🪽 NovaNet
-
-**AI Knowledge Graph**
-
-[![Active](https://img.shields.io/badge/-Active-10b981?style=flat-square)](https://github.com/supernovae-st/novanet) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/supernovae-st/novanet)
-
-The brain behind our products. Native content generation across 200+ locales from semantic entities. Not translation, generation.
-
-[![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)](https://neo4j.com) [![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)](https://rust-lang.org) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org) [![MCP](https://img.shields.io/badge/MCP_Server-blue?style=flat-square)](https://modelcontextprotocol.io)
-
-</td>
-</tr>
 </table>
+
+<sub>🌈 Brewing: <a href="https://github.com/supernovae-st/rain-bo">Rain.bo</a> · link-in-bio, reimagined.</sub>
 
 ---
 
