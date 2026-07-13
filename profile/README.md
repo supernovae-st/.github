@@ -16,32 +16,32 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🦋 Nika — Intent as Code
+### 🦋 Nika · Intent as Code
 
 **The workflow language for AI · one file, one binary**
 
 [![nika.sh](https://img.shields.io/badge/-nika.sh-FF7A3C?style=flat-square)](https://nika.sh) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/supernovae-st/nika) [![AGPL-3.0](https://img.shields.io/badge/-AGPL--3.0-green?style=flat-square)](https://github.com/supernovae-st/nika/blob/main/LICENSE) [![Crates.io](https://img.shields.io/crates/v/nika?style=flat-square&color=FF7A3C)](https://crates.io/crates/nika)
 
-Write a YAML file, Nika runs it with any provider — local or cloud — in parallel, with structured output. **4 verbs, 16 providers, 27 builtin tools**<!-- counts: nika-spec/canon.yaml is the SSOT — update from there, never by memory -->, and the only workflow audit that runs BEFORE a single token is spent: cost ceiling, permits boundary, secret flows — all static. Single Rust binary. Built in public.
+Write a YAML file, Nika runs it with any provider · local or cloud · in parallel, with structured output. **4 verbs, 16 providers, 27 builtin tools**<!-- counts: nika-spec/canon.yaml is the SSOT · update from there, never by memory -->, and the only workflow audit that runs BEFORE a single token is spent: cost ceiling, permits boundary, secret flows · all static. Single Rust binary. Built in public.
 
 **Ecosystem:**
 
 | Repo | Purpose |
 |------|---------|
-| [`nika`](https://github.com/supernovae-st/nika) | Rust engine — AGPL-3.0 |
-| [`nika-spec`](https://github.com/supernovae-st/nika-spec) | The language spec — Apache-2.0, runtime-agnostic |
-| [`nika-docs`](https://github.com/supernovae-st/nika-docs) | Documentation — docs.nika.sh |
+| [`nika`](https://github.com/supernovae-st/nika) | Rust engine · AGPL-3.0 |
+| [`nika-spec`](https://github.com/supernovae-st/nika-spec) | The language spec · Apache-2.0, runtime-agnostic |
+| [`nika-docs`](https://github.com/supernovae-st/nika-docs) | Documentation · docs.nika.sh |
 | [`nika-vscode`](https://github.com/supernovae-st/nika-vscode) | VS Code / Cursor / Windsurf extension |
 | [`nika.sh`](https://github.com/supernovae-st/nika.sh) | Marketing site |
 | [`nika-client`](https://github.com/supernovae-st/nika-client) | TypeScript SDK |
 | [`nika-site-audit`](https://github.com/supernovae-st/nika-site-audit) | A real workflow, auditing real sites |
-| [`nika-agents`](https://github.com/supernovae-st/nika-agents) | Agent plugin marketplace — Claude Code + Codex |
-| [`nika-registry`](https://github.com/supernovae-st/nika-registry) | Share workflows — every entry machine-re-proven |
+| [`nika-agents`](https://github.com/supernovae-st/nika-agents) | Agent plugin marketplace · Claude Code + Codex |
+| [`nika-registry`](https://github.com/supernovae-st/nika-registry) | Share workflows · every entry machine-re-proven |
 | [`homebrew-tap`](https://github.com/supernovae-st/homebrew-tap) | `brew install supernovae-st/tap/nika` |
-| [`nika-action`](https://github.com/supernovae-st/nika-action) | GitHub Action — the check verdict + cost floor + DAG on every PR |
-| [`nika-starter`](https://github.com/supernovae-st/nika-starter) | Template repo — one proven workflow + wiring + CI in a minute |
-| [`nika-actions-starter`](https://github.com/supernovae-st/nika-actions-starter) | Template repo — AI-workflow receipts in your CI |
-| [`gh-nika`](https://github.com/supernovae-st/gh-nika) | GitHub CLI extension — `gh nika check/run`, checksum-verified fetch |
+| [`nika-action`](https://github.com/supernovae-st/nika-action) | GitHub Action · the check verdict + cost floor + DAG on every PR |
+| [`nika-starter`](https://github.com/supernovae-st/nika-starter) | Template repo · one proven workflow + wiring + CI in a minute |
+| [`nika-actions-starter`](https://github.com/supernovae-st/nika-actions-starter) | Template repo · AI-workflow receipts in your CI |
+| [`gh-nika`](https://github.com/supernovae-st/gh-nika) | GitHub CLI extension · `gh nika check/run`, checksum-verified fetch |
 
 ```bash
 # Install
