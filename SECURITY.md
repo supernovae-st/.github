@@ -3,8 +3,8 @@
 This is the **organization-wide default** for `supernovae-st` repositories.
 Repositories with their own `SECURITY.md` (the engine, the spec, the site,
 the SDK, the docs, the tap) refine this policy for their specific surface;
-everything else — including the editor extension, the agent plugin
-marketplace and the workflow registry — falls back to this one.
+everything else · including the editor extension, the agent plugin
+marketplace and the workflow registry · falls back to this one.
 
 ## Supported Versions
 
