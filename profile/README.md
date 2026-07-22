@@ -24,6 +24,16 @@
 
 Write a YAML file, Nika runs it with any provider · local or cloud · in parallel, with structured output. **4 verbs, 17 providers, 28 builtin tools**<!-- counts: nika-spec/canon.yaml is the SSOT · update from there, never by memory -->, and the only workflow audit that runs BEFORE a single token is spent: cost ceiling, permits boundary, secret flows · all static. Single Rust binary. Built in public.
 
+**The watchdogs** · the estate proves itself on a schedule, in public:
+
+[![timeline](https://github.com/supernovae-st/nika-spec/actions/workflows/timeline.yml/badge.svg)](https://github.com/supernovae-st/nika-spec/actions/workflows/timeline.yml)
+[![prod-smoke](https://github.com/supernovae-st/nika.sh/actions/workflows/prod-smoke.yml/badge.svg)](https://github.com/supernovae-st/nika.sh/actions/workflows/prod-smoke.yml)
+[![spec-resync](https://github.com/supernovae-st/nika.sh/actions/workflows/spec-resync.yml/badge.svg)](https://github.com/supernovae-st/nika.sh/actions/workflows/spec-resync.yml)
+[![scorecard](https://github.com/supernovae-st/nika/actions/workflows/scorecard.yml/badge.svg)](https://github.com/supernovae-st/nika/actions/workflows/scorecard.yml)
+[![board](https://github.com/supernovae-st/nika-spec/actions/workflows/board.yml/badge.svg)](https://github.com/supernovae-st/nika-spec/actions/workflows/board.yml)
+
+Red anywhere means a claim stopped proving, a page stopped serving, or a projection drifted. Green is earned daily, never assumed.
+
 **Ecosystem:**
 
 | Repo | Purpose |
