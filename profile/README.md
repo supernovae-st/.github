@@ -35,6 +35,7 @@ Write a YAML file, Nika runs it with any provider · local or cloud · in parall
 | [`nika.sh`](https://github.com/supernovae-st/nika.sh) | Marketing site |
 | [`nika-client`](https://github.com/supernovae-st/nika-client) | TypeScript SDK |
 | [`nika-site-audit`](https://github.com/supernovae-st/nika-site-audit) | A real workflow, auditing real sites |
+| [nika.sh/timeline](https://nika.sh/timeline) | The verifiable record · every claim re-proven in CI · gates, never dates |
 | [`nika-agents`](https://github.com/supernovae-st/nika-agents) | Agent plugin marketplace · Claude Code + Codex |
 | [`nika-registry`](https://github.com/supernovae-st/nika-registry) | Share workflows · every entry machine-re-proven |
 | [`homebrew-tap`](https://github.com/supernovae-st/homebrew-tap) | `brew install supernovae-st/tap/nika` |
