@@ -44,15 +44,14 @@ Red anywhere means a claim stopped proving, a page stopped serving, or a project
 | [`nika-vscode`](https://github.com/supernovae-st/nika-vscode) | VS Code / Cursor / Windsurf extension |
 | [`nika.sh`](https://github.com/supernovae-st/nika.sh) | Marketing site |
 | [`nika-client`](https://github.com/supernovae-st/nika-client) | TypeScript SDK |
-| [`nika-site-audit`](https://github.com/supernovae-st/nika-site-audit) | A real workflow, auditing real sites |
 | [nika.sh/timeline](https://nika.sh/timeline) | The verifiable record · every claim re-proven in CI · gates, never dates |
 | [`nika-agents`](https://github.com/supernovae-st/nika-agents) | Agent plugin marketplace · Claude Code + Codex |
 | [`nika-registry`](https://github.com/supernovae-st/nika-registry) | Share workflows · every entry machine-re-proven |
 | [`homebrew-tap`](https://github.com/supernovae-st/homebrew-tap) | `brew install supernovae-st/tap/nika` |
 | [`nika-action`](https://github.com/supernovae-st/nika-action) | GitHub Action · the check verdict + cost floor + DAG on every PR |
-| [`nika-starter`](https://github.com/supernovae-st/nika-starter) | Template repo · one proven workflow + wiring + CI in a minute |
-| [`nika-actions-starter`](https://github.com/supernovae-st/nika-actions-starter) | Template repo · AI-workflow receipts in your CI |
+| [`nika-actions-starter`](https://github.com/supernovae-st/nika-actions-starter) | Template repo · proven workflows, editor wiring, CI receipts · works locally and on a runner |
 | [`gh-nika`](https://github.com/supernovae-st/gh-nika) | GitHub CLI extension · `gh nika check/run`, checksum-verified fetch |
+| [`nika-estate`](https://github.com/supernovae-st/nika-estate) | The estate law · every file is authored bytes or a proven derivation |
 
 ```bash
 # Install
