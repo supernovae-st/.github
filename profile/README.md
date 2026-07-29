@@ -87,7 +87,7 @@ Turn any QR code into AI-generated art that actually scans. SaaS with free tier 
 </tr>
 </table>
 
-<sub>🌈 Brewing: <a href="https://github.com/supernovae-st/rain-bo">Rain.bo</a> · link-in-bio, reimagined.</sub>
+<sub>🌈 Brewing: Rain.bo · link-in-bio, reimagined.</sub>
 
 ---
 
