@@ -45,7 +45,7 @@ Red anywhere means a claim stopped proving, a page stopped serving, or a project
 | [`nika.sh`](https://github.com/supernovae-st/nika.sh) | Marketing site |
 | [`nika-client`](https://github.com/supernovae-st/nika-client) | TypeScript SDK |
 | [nika.sh/timeline](https://nika.sh/timeline) | The verifiable record · every claim re-proven in CI · gates, never dates |
-| [`nika-agents`](https://github.com/supernovae-st/nika-agents) | Agent plugin marketplace · Claude Code + Codex |
+| [`nika-plugins`](https://github.com/supernovae-st/nika-plugins) | Agent plugin marketplace · Claude Code + Codex |
 | [`nika-registry`](https://github.com/supernovae-st/nika-registry) | Share workflows · every entry machine-re-proven |
 | [`homebrew-tap`](https://github.com/supernovae-st/homebrew-tap) | `brew install supernovae-st/tap/nika` |
 | [`nika-action`](https://github.com/supernovae-st/nika-action) | GitHub Action · the check verdict + cost floor + DAG on every PR |
@@ -64,7 +64,7 @@ curl -LsSf https://nika.sh/install.sh | sh
 
 ```bash
 # Claude Code                              # Codex
-/plugin marketplace add supernovae-st/nika-agents
+/plugin marketplace add supernovae-st/nika-plugins
 /plugin install nika@nika                  codex plugin add nika@nika
 ```
 
