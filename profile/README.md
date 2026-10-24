@@ -23,7 +23,7 @@
 
 <h2 align="center">🦋 Nika · Intent as Code</h2>
 
-<p align="center"><strong>The workflow language for AI. One file, 4 verbs, one Rust binary. Local-first, any model, AGPL-3.0.</strong></p>
+<p align="center"><strong>Say what you want done. Keep it as a file. Checked before it runs, run with the model you choose, proven afterwards. AGPL-3.0.</strong></p>
 
 <p align="center">
   <a href="https://nika.sh"><img src="https://img.shields.io/badge/-nika.sh-FF7A3C?style=flat-square" alt="nika.sh"></a>
@@ -41,7 +41,7 @@
   <a href="https://github.com/supernovae-st/nika/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-AGPL--3.0--or--later-blue.svg" alt="AGPL-3.0-or-later"></a>
 </p>
 
-Write one `.nika.yaml`. `nika check` audits it before a token is spent: the order of effects, the permits boundary, the journey of every secret, the cost floor. `nika run` runs it on the models you already have, local first (Ollama · llama.cpp · vLLM), then Mistral, Hugging Face, OpenAI, xAI, Anthropic and the rest of the catalog, and seals a hash-chained trace after. **4 verbs, 17 providers, 28 builtin tools**<!-- counts: nika-spec/canon.yaml is the SSOT · update from there, never by memory -->. Built in public.
+Write one `.nika` file. `nika check` audits it before a token is spent: the order of effects, the permits boundary, the journey of every secret, the cost floor. `nika run` runs it on the models you already have, local first (Ollama · llama.cpp · vLLM), then Mistral, Hugging Face, OpenAI, xAI, Anthropic and the rest of the catalog, and seals a hash-chained trace after. **4 verbs, 18 providers, 29 builtin tools**<!-- counts: nika-spec/canon.yaml is the SSOT · update from there, never by memory -->. Built in public. 0.123 is the maintained reference release: security fixes, bug fixes and compatibility, with its [known limits](https://docs.nika.sh/changelog/known-limits) written down.
 
 ### One door per surface
 
@@ -50,11 +50,10 @@ Write one `.nika.yaml`. `nika check` audits it before a token is spent: the orde
 | Terminal · macOS and Linux | `curl -LsSf https://nika.sh/install.sh \| sh` |
 | Homebrew | `brew install supernovae-st/tap/nika` |
 | Node.js | `npm install @supernovae-st/nika` |
-| VS Code · Cursor · Windsurf · VSCodium | [`supernovae.nika-lang`](https://marketplace.visualstudio.com/items?itemName=supernovae.nika-lang) on the Marketplace, [on Open VSX](https://open-vsx.org/extension/supernovae/nika-lang) for the forks |
-| GitHub CLI | `gh extension install supernovae-st/gh-nika` · then `gh nika check flow.nika.yaml` |
+| Your editor | `nika lsp` and the [JSON Schema](https://nika.sh/spec/v1/workflow.schema.json). The [`supernovae.nika`](https://marketplace.visualstudio.com/items?itemName=supernovae.nika) extension ([Open VSX](https://open-vsx.org/extension/supernovae/nika) for the forks) is frozen at 0.120 and not qualified with 0.123 |
+| GitHub CLI | `gh extension install supernovae-st/gh-nika` · then `gh nika check hello.nika` |
 | GitHub Actions | `uses: supernovae-st/nika-action@v1` |
 | Your coding agent | `npx plugins add supernovae-st/nika-plugins` |
-| Shared workflows | `invoke: { workflow: "registry:<owner>/<name>@<version>" }` |
 
 <!-- city:map -->
 ### The city · thirteen buildings
@@ -79,13 +78,13 @@ Write one `.nika.yaml`. `nika check` audits it before a token is spent: the orde
 | [`nika-docs`](https://github.com/supernovae-st/nika-docs) | The manual: guides, reference, recipes · [docs.nika.sh](https://docs.nika.sh) |
 | [`nika.sh`](https://nika.sh) | The site, and [the timeline](https://nika.sh/timeline): every claim re-proven in CI · gates, never dates |
 | [`nika-client`](https://github.com/supernovae-st/nika-client) | The TypeScript SDK, published as `@supernovae-st/nika`: typed check, streamed runs, receipts |
-| [`nika-vscode`](https://github.com/supernovae-st/nika-vscode) | The editor: diagnostics as you type, the DAG canvas, live runs and replay, local models |
+| [`nika-vscode`](https://github.com/supernovae-st/nika-vscode) | The editor extension, frozen at 0.120 and not qualified with 0.123: use `nika lsp` and the JSON Schema |
 | [`nika-plugins`](https://github.com/supernovae-st/nika-plugins) | One Add teaches your coding agent the language: skills, commands, hooks, the read-only MCP oracle |
 | [`gh-nika`](https://github.com/supernovae-st/gh-nika) | The GitHub CLI extension: `gh nika check`, `gh nika run`, the engine fetched checksum-verified |
 | [`homebrew-tap`](https://github.com/supernovae-st/homebrew-tap) | The Homebrew door: `brew install supernovae-st/tap/nika`, completions included |
 | [`nika-action`](https://github.com/supernovae-st/nika-action) | The GitHub Action: the check verdict, the cost floor and the DAG on every pull request |
 | [`nika-actions-starter`](https://github.com/supernovae-st/nika-actions-starter) | The template repository: receipts on every pull request from the first green run |
-| [`nika-registry`](https://github.com/supernovae-st/nika-registry) | Share workflows, packs, skills and agents: every entry re-proven by CI, hash and oracle |
+| [`nika-registry`](https://github.com/supernovae-st/nika-registry) | Shared workflows, packs, skills and agents, every entry re-proven by CI, hash and oracle. Engine 0.123.0 refuses `registry:` coordinates: fetch an entry with the registry's own script ([known limits](https://docs.nika.sh/changelog/known-limits)) |
 | [`nika-estate`](https://github.com/supernovae-st/nika-estate) | The land registry: every file's provenance declared, sealed, anchored · the hundred-year machinery |
 
 The living map: [nika.sh/map](https://nika.sh/map).
