@@ -25,7 +25,13 @@
 
 <p align="center"><strong>Say what you want done. Keep it as a file. Checked before it runs, run with the model you choose, proven afterwards. AGPL-3.0.</strong></p>
 
-<p align="center">Nika has its own home now: <a href="https://github.com/nika-open"><b>github.com/nika-open</b></a>, the engine, the specification and every way to install it · <a href="https://nika.sh">nika.sh</a> · <a href="https://docs.nika.sh">docs.nika.sh</a></p>
+<p align="center">Nika has moved to its own organization, <a href="https://github.com/nika-open"><b>nika-open</b></a>: the engine, the specification, the SDK and every way to install it.</p>
+
+<p align="center">
+  <a href="https://github.com/nika-open"><img src="https://img.shields.io/badge/GitHub-nika--open-181717?style=flat-square&logo=github" alt="github.com/nika-open"></a>
+  <a href="https://nika.sh"><img src="https://img.shields.io/badge/-nika.sh-FF7A3C?style=flat-square" alt="nika.sh"></a>
+  <a href="https://docs.nika.sh"><img src="https://img.shields.io/badge/docs-docs.nika.sh-8b8cf8?style=flat-square" alt="docs.nika.sh"></a>
+</p>
 
 ---
 
